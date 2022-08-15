@@ -1,0 +1,7 @@
+Django==4.1
+django_cors_headers==3.13.0
+django_mysql==4.7
+mysqlclient==2.1.1
+pika==1.3.0
+djangorestframework 
+pandas==1.4.3
